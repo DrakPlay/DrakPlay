@@ -4,10 +4,10 @@
 
 ###
 
-<h1 align="left">О себе 🎮</h1>
-![](https://komarev.com/ghpvc/?username=DrakPlay&color=gray)
+<h1>О себе 🎮 </h1>
 
 ###
+![](https://komarev.com/ghpvc/?username=DrakPlay&theme=lightgrey&style=flat-square)
 
 <p align="left">Я JavaScript разработчик.<br><br>Создаю моды для Minecraft Bedrock Edition</p>
 
