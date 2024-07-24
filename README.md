@@ -1,3 +1,9 @@
+<div align="center">
+  <img height="100" src="https://post-images.org/download/178.207.15.250-desk/rounded-in-photoretrica.png"  />
+</div>
+
+###
+
 <h1 align="left">О себе 🎮</h1>
 
 ###
