@@ -5,6 +5,8 @@
 ###
 
 <h1 align="left">О себе 🎮</h1>
+<img scr="https://img.shields.io/github/followers/DrakPlay
+"></img>
 
 ###
 
