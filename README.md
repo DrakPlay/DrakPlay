@@ -5,8 +5,7 @@
 ###
 
 <h1 align="left">О себе 🎮</h1>
-<img scr="https://img.shields.io/github/followers/DrakPlay
-"></img>
+![](https://komarev.com/ghpvc/?username=DrakPlay&color=gray)
 
 ###
 
